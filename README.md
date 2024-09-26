@@ -1,12 +1,11 @@
-# notes
-nfghfghf
+
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
-- Ctrl-C (copy)
+- Ctrl-X (cut)
 - Ctrl-V (paste)
-- Ctrl-Z (undo)
+- Shift-Win-S (screenshot)
 
 Shortcuts I would like to start using: 
-- Ctrl-A (select all)
+- Windows+X (Quick Access Menu)
 - Win-D (show desktop)
-- Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+- Ctrl+Shift+Escape (Task Manager)
