@@ -6,6 +6,9 @@ Shortcuts I frequently use:
 - Shift-Win-S (screenshot)
 
 Shortcuts I would like to start using: 
+- Windows+X (Quick Access Menu)
 - Win-X (Quick Access Menu)
 - Win-D (show desktop)
+- Ctrl+Shift+Escape (Task Manager)
 - Ctrl-Shift-Escape (Task Manager)
+
