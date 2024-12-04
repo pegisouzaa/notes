@@ -12,3 +12,4 @@ Shortcuts I would like to start using:
 - Ctrl+Shift+Escape (Task Manager)
 - Ctrl-Shift-Escape (Task Manager)
 
+- [CLI commands](docs/cli.md)
