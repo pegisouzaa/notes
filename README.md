@@ -12,4 +12,5 @@ Shortcuts I would like to start using:
 - Ctrl+Shift+Escape (Task Manager)
 - Ctrl-Shift-Escape (Task Manager)
 
+# This is done as part of lab6
 - [CLI commands](docs/cli.md)
